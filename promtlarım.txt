@@ -1,0 +1,31 @@
+prompt 1
+Merhaba uzman ve düzene önem veren Bir ön web geliştiricisi olarak hareket etmenizi istiyorum. 
+Proje için şu araçları kullanarak yeni bir galeri  web sitesi kodlayacaksınız: 
+HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript. 
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+Ayrıca düzen ve stil açısından site yapısında çağımızın Bootstrap CSS sınıflarının en son sürümünü de içermelidir. 
+HTML, CSS ve Javascript kodlarini ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz. 
+Yazdığınız kodların hiçbirine açıklama yapmayın. 
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+ChatGPT
+Evet.
+
+prompt 2
+Web sitesi bir portfolio galeri web sitesi ve burada 8 adet farklı looney tunes karakterlerinin  Star Wars evrenindeki hallerini paylaşmak istiyorum. bu karakterler sırasıyla  bugs bunny, duffy duck, tweety, sylvester, marvin the martian, road runner, coyote, lola bunny, olacak
+Web sitemde bulunmasını istediğim etiketler (başlık olarak Looney Tunes Star Wars evreninde , menü, bugs bunny, duffy duck, tweety, sylvester, marvin the martian, road runner, coyote, lola bunny ) şeklindedir.  tüm karakterlerin kendine ait bölümünün bulunmasını istiyorum.
+Sayfamın başlık  bölümünde bir logo olmasını istiyorum ve aynı şekilde bu logodan bir adette alt bilgi bölümünde olmasını istiyorum.
+Sayfanın içeriğinin galeri görünümünde, her bir etrafı kırmızı  ızgarada 8 adet olmak üzere 300x300 boyutlarında resimler yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Resimlerin üzerine gelindiğinde bir rüzgar geçiş efektine sahip olması güzel bir detay olur.
+Bana bu web sitesini oluşturmada yardımcı olur musun ?
+
+prompt 3
+bana son ve hazır düzenlenmiş halini atabilir misin
+
+ChatGPT
+Tabii ki, işte son haliyle düzenlenmiş HTML dosyası:
+prompt 4
+Javascript kodlarını da yazar mısın ? 
+prompt 5
+bu web siteme karakter bölümlerinin içine görselleri nasıl ekleyeceğim
