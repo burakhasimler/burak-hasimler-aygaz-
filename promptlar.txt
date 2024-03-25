@@ -1,4 +1,4 @@
-User
+prompt 1
 Merhaba uzman ve düzene önem veren Bir ön web geliştiricisi olarak hareket etmenizi istiyorum. 
 Proje için şu araçları kullanarak yeni bir galeri  web sitesi kodlayacaksınız: 
 HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript. 
@@ -13,7 +13,7 @@ Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt ver
 ChatGPT
 Evet.
 
-User
+prompt 2
 Web sitesi bir portfolio galeri web sitesi ve burada 9 adet farklı looney tunes karakterlerinin  Star Wars evrenindeki hallerini paylaşmak istiyorum. bu karakterler sırasıyla  bugs bunny, duffy duck, tweety, sylvester, marvin the martian, road runner, coyote, lola bunny, yosemite sam olacak
 Web sitemde bulunmasını istediğim etiketler (başlık olarak Looney Tunes Star Wars evreninde , menü, bugs bunny, duffy duck, tweety, sylvester, marvin the martian, road runner, coyote, lola bunny, yosemite sam ) şeklindedir.  tüm karakterlerin kendine ait bölümünün bulunmasını istiyorum.
 Sayfamın başlık  bölümünde bir logo olmasını istiyorum ve aynı şekilde bu logodan bir adette alt bilgi bölümünde olmasını istiyorum.
@@ -141,7 +141,7 @@ Copy code
 // Bu kısımda JavaScript kodları gelecek
 Bu temel dosyaları oluşturduktan sonra, karakterlerin bölümlerini doldurabilir ve gerekirse stil ve işlevsellik ekleyebiliriz. Ayrıca, rüzgar geçiş efektini JavaScript ile ekleyebiliriz. İhtiyacınız olan herhangi bir ek detay varsa, lütfen bana bildirin!
 
-User
+prompt 3
 Javascript kodlarını da yazar mısın ? 
 ChatGPT
 Tabii ki, işte JavaScript dosyasına ekleyebileceğiniz basit bir rüzgar geçiş efekti örneği:
